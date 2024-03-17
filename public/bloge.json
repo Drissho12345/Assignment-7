@@ -1,0 +1,99 @@
+[
+      {
+        "id":1,
+        "name": "Margherita Pizza",
+        "description": "Classic Margherita Pizza with fresh basil leaves",
+        "time": "30 minutes",
+        "caloric": "850 calorice",
+        "image": "https://foodbyjonister.com/wp-content/uploads/2020/01/MargheritaPizza.jpg",
+        "ingredients": [
+          "1 pizza dough",
+          "1/2 cup tomato sauce",
+          "1 cup mozzarella cheese",
+          "Fresh basil leaves"
+        ]
+      },
+      {
+        "id":2,
+        "name": "California Roll Sushi",
+        "description": "A popular sushi roll filled with imitation crab and avocado",
+        "time": "45 minutes",
+        "caloric":" 620 calorice",
+        "image": "https://thegreengalley.com/wp-content/uploads/2020/08/IMG_2532-copy-2-1.jpeg",
+        "ingredients": [
+          "2 cups sushi rice",
+          "4 sheets nori",
+          "1/2 lb imitation crab",
+          "1 avocado",
+          "1 cucumber"
+        ]
+      },
+      {
+        "id":3,
+        "name": "Classic Beef Burger",
+        "description": "Juicy beef patty served with fresh vegetables on a bun",
+        "time": "20 minutes",
+        "caloric": "720 calorice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQexC4IP-FiMOz0qhAUoz5n4MofEZf2sFGqAg&usqp=CAU",
+        "ingredients": [
+          "1 lb ground beef",
+          "4 hamburger buns",
+          "Lettuce",
+          "Tomato slices",
+          "Onion slices",
+          "Cheese slices"
+        ]
+      },
+      {
+        "id":4,
+        "name": "Chicken Pad Thai",
+        "description": "Stir-fried rice noodles with chicken, peanuts, and bean sprouts",
+        "time": "35 minutes",
+        "caloric": "550 calorice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3saSebR2B-DmAPX4BLRs4bRPIbYWgps-nog&usqp=CAU",
+        "ingredients": [
+          "8 oz rice noodles",
+          "2 chicken breasts",
+          "2 eggs",
+          "1 cup bean sprouts",
+          "1/2 cup peanuts",
+          "3 cloves garlic",
+          "3 green onions"
+        ]
+      },
+      {
+        "id":5,
+        "name": "Beef Tacos",
+        "description": "Delicious tacos filled with seasoned ground beef and fresh toppings",
+        "time": "25 minutes",
+        "caloric": "680 calorice",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAo-aX8QLSiCWdcQhTAO4ZqhgNTL1_RNH5Hw&usqp=CAU",
+        "ingredients": [
+          "1 lb ground beef",
+          "8 small flour tortillas",
+          "Lettuce",
+          "Tomato",
+          "Shredded cheese",
+          "Salsa"
+        ]
+      },
+      {
+        "id":6,
+        "name": "Spicy Tuna Sushi Burrito",
+        "description": "A fusion of sushi and burrito, filled with spicy tuna and fresh veggies",
+        "time": "40 minutes",
+        "caloric": "730 calorice",
+        "image": "https://cdn.cleaneatingmag.com/wp-content/uploads/2018/03/tuna-sushi-burrito_77_web-2.jpg?crop=4:3&width=1600",
+        "ingredients": [
+          "2 cups sushi rice",
+          "4 sheets nori",
+          "1/2 lb sushi-grade tuna",
+          "1/4 cup spicy mayo",
+          "1 avocado",
+          "1 cucumber",
+          "1 carrot",
+          "Sesame seeds"
+        ]
+      }
+]
+  
