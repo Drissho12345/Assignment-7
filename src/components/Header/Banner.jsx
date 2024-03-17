@@ -8,9 +8,9 @@ const Banner = () =>{
                    <div className="pt-40 justify-center items-center">
                    <h1 className=" text-6xl font-bold text-[#FFFFFF]">Discover an exceptional cooking <br/> class tailored for you!</h1>
                    <p className=" text-xl pt-10">Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding <br/>problems to become an exceptionally well world-class Programmer.</p>
-                   <div className='flex pt-10 justify-center gap-6'>
+                   <div className='flex pt-10 pb-20 justify-center gap-6'>
                    <button className="btn p-5 text-[#150B2B] bg-[#0BE58A] rounded-[50px] btn-primary border">Get Started</button>
-                   <button className="btn p-5  rounded-[50px]  btn-primary border">Get Started</button>
+                   <button className="btn p-5 text-[#fff] rounded-[50px]  btn-primary border">Get Started</button>
                    </div>
                 </div>
               </div>
