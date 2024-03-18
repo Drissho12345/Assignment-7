@@ -9,7 +9,7 @@ const CurrentCooking = ({data,index}) => {
                             <tr className="p-5">{index+1}</tr>
                             <tr className="p-5">{name}</tr>
                             <tr className="p-5 ">{time}</tr>
-                            <tr className="p-5 ">{caloric}</tr>
+                            <tr className="p-5">{caloric}</tr>
                         </th>
                 </table>
         </div>
